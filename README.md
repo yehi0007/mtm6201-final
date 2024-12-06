@@ -73,7 +73,7 @@ This is a responsive and accessible portfolio website showcasing my skills, proj
 
 ## 🌐 Live Preview
 
-You can access the portfolio [here](#) (update with actual link once deployed).
+You can access the portfolio https://yehi0007.github.io/mtm6201-final/.
 
 ---
 
